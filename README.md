@@ -1,0 +1,2 @@
+# amd-training
+AMD Training
